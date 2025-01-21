@@ -13,3 +13,5 @@ for i in range (len(nums)-k+1):
     else :
         ans.append(v)
     ls.discard(nums[i])
+
+print("Hello world!")
