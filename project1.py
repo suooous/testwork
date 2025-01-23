@@ -15,3 +15,4 @@ for i in range (len(nums)-k+1):
     ls.discard(nums[i])
 
 print("Hello world!")
+print(ans)
